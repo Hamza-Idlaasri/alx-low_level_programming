@@ -4,7 +4,7 @@
  *
  * @n: The character to be checked
  *
- * Return: 1 if @n is greater than zero, 0 if @n zero, and -1 if @n less than zero
+ * Return: 1 if @n > 0, 0 if @n = 0, and -1 if @n < 0
  */
 int print_sign(int n)
 {
